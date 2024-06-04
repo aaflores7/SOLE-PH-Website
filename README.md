@@ -50,8 +50,8 @@ Vendor Dashboard
 ![image](https://github.com/aaflores7/SOLE-PH-Website/assets/139302714/79e36f33-ae9c-41a4-a0ea-ba817a96f444)
 
 Admin Dashboard
-![Uploading image.png…]()
-![Uploading image.png…]()
-![Uploading image.png…]()
+![Screenshot 2024-06-04 141345](https://github.com/aaflores7/SOLE-PH-Website/assets/139302714/a9d1919c-9513-4f10-9161-60c2fccf296f)
+![Screenshot 2024-06-04 141328](https://github.com/aaflores7/SOLE-PH-Website/assets/139302714/3d385818-5c87-4635-8554-4832bfa0d6b4)
+![Screenshot 2024-06-04 141405](https://github.com/aaflores7/SOLE-PH-Website/assets/139302714/79b62f39-387a-4650-8db7-d8e67b0763f2)
 
 
