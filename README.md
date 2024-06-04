@@ -41,13 +41,10 @@ User View
 ![image](https://github.com/aaflores7/SOLE-PH-Website/assets/139302714/5680f917-a3a4-4659-b07d-8b3a1a646dd9)
 ![image](https://github.com/aaflores7/SOLE-PH-Website/assets/139302714/c4ee035a-b83d-4d76-9346-97c0f987a4e8)
 ![image](https://github.com/aaflores7/SOLE-PH-Website/assets/139302714/14faa4d6-5fa0-4f68-9467-0bfb26c246e1)
-![image](https://github.com/aaflores7/SOLE-PH-Website/assets/139302714/033b3ef7-58ae-4ceb-bdec-66a7a539e0b8)
-![image](https://github.com/aaflores7/SOLE-PH-Website/assets/139302714/b8ed6541-578b-48ff-a5fa-c87e70d5329b)
-![image](https://github.com/aaflores7/SOLE-PH-Website/assets/139302714/1af42529-1722-4f52-9a0a-0b7613685100)
 
 Vendor Dashboard
-![image](https://github.com/aaflores7/SOLE-PH-Website/assets/139302714/8cd7c30a-d9f3-47c8-97d7-ca55128b1efa)
-![image](https://github.com/aaflores7/SOLE-PH-Website/assets/139302714/79e36f33-ae9c-41a4-a0ea-ba817a96f444)
+![image](https://github.com/aaflores7/SOLE-PH-Website/assets/139302714/033b3ef7-58ae-4ceb-bdec-66a7a539e0b8)
+![image](https://github.com/aaflores7/SOLE-PH-Website/assets/139302714/b8ed6541-578b-48ff-a5fa-c87e70d5329b)
 
 Admin Dashboard
 ![Screenshot 2024-06-04 141345](https://github.com/aaflores7/SOLE-PH-Website/assets/139302714/a9d1919c-9513-4f10-9161-60c2fccf296f)
